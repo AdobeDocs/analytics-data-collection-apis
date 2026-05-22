@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-docs-template/
+    - /analytics-collection-apis/
 
 - pages:
     - [Analytics](index.md)
